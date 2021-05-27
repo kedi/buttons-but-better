@@ -7,8 +7,8 @@ client.on('ready', () => {
         let name = interaction.data.custom_id
 
         let GameMap = new Map([
-            ["buttongartic","652630849325629460"]
-            ["buttonvk","652630849325629460"]
+            ["buttongartic","652630849325629460"],
+            ["buttonvk","652630849325629460"],
             ["buttondc","652630849325629460"]
         ])
 
